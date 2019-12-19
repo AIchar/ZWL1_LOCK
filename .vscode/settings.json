@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "osapi.h": "c",
+        "i2c_master.h": "c",
+        "gpio.h": "c",
+        "user_interface.h": "c",
+        "user_config.h": "c",
+        "string.h": "c",
+        "cdefs.h": "c",
+        "gpio_key.h": "c",
+        "mem.h": "c",
+        "servo_lock.h": "c",
+        "ets_sys.h": "c",
+        "1016c.h": "c"
+    }
+}
