@@ -1,2 +1,6 @@
 bin/upgrade/
 app/.output/eagle/debug/image/eagle.app.v6.out
+app/.output/
+app/driver/.output/
+app/mqtt/.output/
+app/user/.output/
